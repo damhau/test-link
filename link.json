@@ -1,0 +1,13 @@
+{
+	"version": 1,
+  "hashes": {
+    "df3f955387144503facc8360f3efc43f": {
+			"labels": [
+				{
+					"caption": "Terraform",
+					"style": "success"
+				}
+			]
+		}
+  }
+}
