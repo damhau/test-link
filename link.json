@@ -7,7 +7,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "azapp-icrc-azwp-tst-chn-connect"
+            }
         },
         "2923d2314abf2593beb8a86a98b9e4bd": {
             "labels": [
@@ -15,7 +18,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-connect-tst-web"
+            }
         },
         "2929c2bb883c037e63d0097b10a4c843": {
             "labels": [
@@ -23,7 +29,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-azwp-npd-chn-connect"
+            }
         },
         "c07acee9b0ec13219e02cbd09795da16": {
             "labels": [
@@ -31,7 +40,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "azapp-icrc-azwp-prd-chn-connect"
+            }
         },
         "407eeb379c2c499bc3b2fd7f56fefc5f": {
             "labels": [
@@ -39,7 +51,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-connect-prd-web"
+            }
         },
         "ad8db7dd87cac5b7612a7ab692674d20": {
             "labels": [
@@ -47,7 +62,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-azwp-prd-chn-connect"
+            }
         },
         "671bc5c57b30b2a80bfa00409cd98293": {
             "labels": [
@@ -55,7 +73,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "apgw-icrc-wapp-npd-switzerlandnorth-casetst"
+            }
         },
         "9ec80f5121bb8f842790ff63eb7ca3e2": {
             "labels": [
@@ -63,7 +84,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-case-tst-web"
+            }
         },
         "a3ac411daa6f9bc97a296b4ab0d67555": {
             "labels": [
@@ -71,7 +95,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-tst-chn-case"
+            }
         },
         "6ec52a68a5833378ea240d36e123748d": {
             "labels": [
@@ -79,7 +106,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "apgw-icrc-wapp-npd-switzerlandnorth-caseuat"
+            }
         },
         "bbe56edc80e56ddc551247470995557d": {
             "labels": [
@@ -87,7 +117,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-case-uat-web"
+            }
         },
         "bf5deb9f1f1b08807bbdf07a76883540": {
             "labels": [
@@ -95,7 +128,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-uat-chn-case"
+            }
         },
         "b3fd1dbc6c99ce678a29de975d504026": {
             "labels": [
@@ -103,7 +139,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "apgw-icrc-wapp-npd-switzerlandnorth-ihltst"
+            }
         },
         "19527b52290cf99c99c68ad790d1b777": {
             "labels": [
@@ -111,7 +150,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-ihl-tst-web"
+            }
         },
         "61c8fe79944911a82bfcb69445846f5e": {
             "labels": [
@@ -119,7 +161,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-tst-chn-ihl"
+            }
         },
         "198df88fbff3a7360cd9bc485bbbafda": {
             "labels": [
@@ -127,7 +172,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "apgw-icrc-wapp-npd-switzerlandnorth-irwtest"
+            }
         },
         "e538427a3080ff99a6782c92df02022d": {
             "labels": [
@@ -135,7 +183,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-azapp-icrc-wapp-tst-chn-irw"
+            }
         },
         "e0405f584cea5dd488a648f26312125b": {
             "labels": [
@@ -143,7 +194,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-npd-chn-irw"
+            }
         },
         "d0f46d330e2e79765b16d98fbcca6b13": {
             "labels": [
@@ -151,7 +205,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-tst-chn-irw"
+            }
         },
         "306570a81bfa71bcfd5fe97cb6da3144": {
             "labels": [
@@ -159,7 +216,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "apgw-icrc-wapp-npd-switzerlandnorth-irwuat"
+            }
         },
         "ebc54a3898fcd6161ab0aca00ed0f478": {
             "labels": [
@@ -167,7 +227,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "rt-irw-uat-web"
+            }
         },
         "73a6fff919cb902f4f644e9953e1bf68": {
             "labels": [
@@ -175,7 +238,10 @@
                     "caption": "Terraform",
                     "style": "success"
                 }
-            ]
+            ],
+            "metadata": {
+                "name": "afdsp-icrc-wapp-uat-chn-irw"
+            }
         }
     }
 }
