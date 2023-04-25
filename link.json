@@ -1,17 +1,45 @@
 {
-	"version": 1,
-  "hashes": {
-    "df3f955387144503facc8360f3efc43f": {
-			"labels": [
-				{
-					"caption": "Terraform",
-					"style": "success"
-				},
-				{
-					"caption": "Nice",
-					"style": "warning"
-				}
-			]
-		}
-  }
+    "version": 1,
+    "hashes": {
+        "9ec80f5121bb8f842790ff63eb7ca3e2": {
+            "labels": [
+                {
+                    "caption": "Terraform",
+                    "style": "success"
+                }
+            ]
+        },
+        "bbe56edc80e56ddc551247470995557d": {
+            "labels": [
+                {
+                    "caption": "Terraform",
+                    "style": "success"
+                }
+            ]
+        },
+        "19527b52290cf99c99c68ad790d1b777": {
+            "labels": [
+                {
+                    "caption": "Terraform",
+                    "style": "success"
+                }
+            ]
+        },
+        "e538427a3080ff99a6782c92df02022d": {
+            "labels": [
+                {
+                    "caption": "Terraform",
+                    "style": "success"
+                }
+            ]
+        },
+        "ebc54a3898fcd6161ab0aca00ed0f478": {
+            "labels": [
+                {
+                    "caption": "Terraform",
+                    "style": "success"
+                }
+            ]
+        }
+    }
 }
